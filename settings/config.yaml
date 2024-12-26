@@ -1,0 +1,20 @@
+relayModule:
+  delay: 0
+  minDelay: false # Ставим время в cек либо тут, либо если false то настройки в csv
+  maxDelay: false # Ставим время в cек либо тут, либо если false то настройки в csv
+  amount: false # Ставим время в cек либо тут, либо если false то настройки в csv
+  minAmount: false # Ставим сумму в ETH либо тут, либо если false то настройки в csv
+  maxAmount: false # Ставим сумму в ETH либо тут, либо если false то настройки в csv
+  gasLimit: 0 # 0 - автоматом подставляет в зависимости от текущего gasLimit
+  originChain: ZORA # Вставляем название чейна из RPC
+  #proxy: false
+  rpc:
+    ARBITRUM: "https://arbitrum-one-rpc.publicnode.com"
+    BASE: "https://base-rpc.publicnode.com"
+    BLAST: "https://blast-rpc.publicnode.com"
+    ETH: "https://ethereum-rpc.publicnode.com"
+    LINEA: "https://linea-rpc.publicnode.com"
+    OPTIMISM: "https://optimism-rpc.publicnode.com"
+    SCROLL: "https://scroll-rpc.publicnode.com"
+    ZKSYNC: "https://mainnet.era.zksync.io"
+    ZORA: "https://rpc.zora.energy"

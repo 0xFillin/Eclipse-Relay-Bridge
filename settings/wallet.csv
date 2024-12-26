@@ -1,0 +1,2 @@
+№,address,privkey,eclipsedeposit,proxy,minDelay,maxDelay,minAmount,maxAmount,originChain
+1,wallet_address,private_key,eclipse_wallet,username:pass@ip:port,5,15,0.00024,0.00025,BASE
