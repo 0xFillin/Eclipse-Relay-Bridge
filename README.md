@@ -3,6 +3,7 @@
 
 
 # User Guide for Script Configuration
+![Version](https://img.shields.io/github/package-json/v/0xFillin/Eclipse-Relay-Bridge)
 
 This guide explains how to configure the script for proper operation, focusing on configuration files and parameter settings.
 
